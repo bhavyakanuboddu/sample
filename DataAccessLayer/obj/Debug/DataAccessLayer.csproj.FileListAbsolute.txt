@@ -1,0 +1,5 @@
+E:\Users\bhavya.kanuboddu\Documents\Visual Studio 2015\Projects\ThreeTier\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Users\bhavya.kanuboddu\Documents\Visual Studio 2015\Projects\ThreeTier\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Users\bhavya.kanuboddu\Documents\Visual Studio 2015\Projects\ThreeTier\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Users\bhavya.kanuboddu\Documents\Visual Studio 2015\Projects\ThreeTier\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Users\bhavya.kanuboddu\Documents\Visual Studio 2015\Projects\ThreeTier\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
